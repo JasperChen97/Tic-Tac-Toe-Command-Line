@@ -1,5 +1,6 @@
 var prompt = require('prompt');
 
+//set up board
 var board = {
     1: ' ',
     2: ' ',
